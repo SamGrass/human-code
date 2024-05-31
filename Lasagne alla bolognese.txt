@@ -1,0 +1,143 @@
+PREPARIAMO LE LASAGNE ALLA BOLOGNESE:
+
+. Prendiamo la ricetta
+
+. Leggiamo la ricetta
+
+. Controlliamo di avere tutti gli ingredienti e gli utensili
+
+   -- SE non abbiamo tutti il necessario
+
+      -- andiamo a comprarlo
+   
+   -- ALTRIMENTI proseguiamo
+
+PREPARIAMO IL RAGU'
+. Prendiamo la padella
+
+. Accendiamo i fornelli
+
+   -- SE non si accendono
+
+      . Controllare la valvola
+
+         -- SE è chiusa
+
+            . Aprire la valvola
+
+         -- ALTRIMENTI chiamare il tecnico
+
+. Scaldiamo l'olio, nel mentre tagliamo le verdure
+
+. Versare la carne macinata in padella insieme alle verdure
+
+. Versiamo la passata assieme a sale e pepe
+
+. Sfumiamo il tutto con del vino rosso
+
+. Lasciare cuocere per due ore
+
+   -- SE è ben cotto
+
+      . Metterla da parte
+
+   -- ALTRIMENTI continuare la cottura
+
+PREPARIAMO BESCIAMELLA
+
+. Prendere la confezione della besciamella
+
+. Mettiamo la pentola sul fuoco
+
+. Versiamo la besciamella per riscaldarla leggermente
+
+PREPARIAMO LE SFOGLIE
+. Prendiamo una pentola
+
+. Versiamo dell'acqua dentro la pentola
+
+. Mettiamo la pentola sul fuoco
+
+. Prendiamo le sfoglie preconfezionate
+
+   -- SE l'acqua è bollente
+      
+      . Le immergiamo per qualche secondo
+
+      -- SE qualche sfoglia si rovina
+
+         . Non utilizzarla
+
+ACCENSIONE DEL FORNO
+. Accendere il forno a 200 gradi
+
+PREPARIAMO LA TEGLIA:
+
+   STESURA STRATI
+--------------------------------------------------
+. Stendere uno strato di sfoglie che copra tutta la teglia
+
+. Stendere uno strato di besciamella
+
+. Stendere uno strato di ragù
+-------------------------------------------------
+   -- SE la teglia è piena
+
+      . Aggiungere un po' di formaggio gratuggiato
+
+   -- ALTRIMENTI 
+
+      . Ripetere STESURA STRATI
+
+COTTURA
+. Mettiamo la teglia in forno per 50 minuti
+
+   -- SE non è cotta 
+
+      . Lasciare per altri 10 minuti
+
+   -- ALTRIMENTI se è cotta
+
+      . Sfornare e lasciare che si raffreddi
+
+ASSAGGIO
+
+. Prendere un piatto
+
+. Tagliare con un coltello una porzione
+
+. Assaggiare la lasagna
+
+   -- SE non è come quella della nonna
+   
+      . Apriamo un ticket alla nonna
+
+      . Ripetiamo tutto il procedimento con l'aggiunta di:
+
+         PREPARAZIONE BESCIAMELLA (da fare dopo la preparazione del ragù in sostituzione di quella preconfezionata ):
+
+            . Prendiamo gli ingredienti della besciamella
+
+            . Prendiamo una padella
+
+            . Accendiamo il fuoco
+
+            . Versiamo il latte nella padella
+
+            . Aggiungere il burro e noce moscata
+
+            . Aggiungere un po' di farina alla volta mescolando
+
+               -- SE la densità non è quella desiderata
+
+                  . Aggiungere altra farina
+
+            . Quando raggiunge la giusta densità, togliere dal fuoco
+
+   -- ALTRIMENTI 
+   
+      . Esultare e mangiare
+
+
+
+
